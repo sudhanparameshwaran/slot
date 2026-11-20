@@ -1,4 +1,4 @@
-# Ex04 Time Table
+# Ex02 Time Table
 ## Date: 17.11.2026
 
 ## AIM
